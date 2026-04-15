@@ -19,5 +19,3 @@ Reutilización: Puedes usar los mismos métodos en diferentes scripts de prueba.
 Legibilidad: El código del test es mucho más claro (parece lenguaje humano: loginPage.login(...)) en lugar de estar lleno de localizadores complejos.
 
 <img width="1788" height="957" alt="image" src="https://github.com/user-attachments/assets/51a5219b-2b3c-4482-a87c-39c1bb0b715b" />
-
-
