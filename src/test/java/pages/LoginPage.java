@@ -3,6 +3,8 @@ package pages;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 
+import java.util.Collection;
+
 public class LoginPage {
     private WebDriver driver;
 
@@ -53,4 +55,6 @@ public class LoginPage {
         }
         return "";
     }
+
+
 }
